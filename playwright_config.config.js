@@ -13,10 +13,10 @@ const config = {
           debug: false,
           testops: {
             api: {
-              token: '29bd418a9280af512bc01743d71e35beed3612703b046e37580c72c8972b57ca',
+              token: '{your token playwright on qase.io}',
             },
   
-            project: 'DEWP',
+            project: '{your project code qase.io}',
             uploadAttachments: true,
   
             run: {
